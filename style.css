@@ -146,3 +146,17 @@ h1, h2, h3, a, p{
   font-family: 'Instrument Serif', serif;
   font-weight: 700; /* This font defaults to regular weight */
 }
+
+.meow {
+    display: flex;
+
+}
+
+.big {
+    width:400px;
+    height:auto;
+}
+
+a {
+    text-decoration: none;
+}

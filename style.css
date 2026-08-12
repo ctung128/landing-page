@@ -1,3 +1,18 @@
+body {
+    /* Hamutaro - https://www.cursors-4u.com/cursor/nat21-11 */
+    * {
+    cursor: url('https://cdn.cursors-4u.net/css-previews/hamutaro-ddb0d949-css.webp') 0 0, auto !important;
+    }
+    /* End www.Cursors-4U.com Code */
+    max-width: 100%;
+    overflow-x: hidden;
+    margin-bottom: 0px;
+    /* Apply to the entire website */
+    font-family: 'Instrument Serif', serif;
+}
+
+
+
 img {
     width: 200px;
     height: auto
@@ -86,14 +101,6 @@ a {
 
 .list-text {
     text-align: center
-}
-
-body {
-    max-width: 100%;
-    overflow-x: hidden;
-    margin-bottom: 0px
-    /* Apply to the entire website */
-    font-family: 'Instrument Serif', serif;
 }
 
 .quote {
